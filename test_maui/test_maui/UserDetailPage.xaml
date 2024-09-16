@@ -1,0 +1,27 @@
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="test_maui.UserDetailPage">
+    <ScrollView>
+        <StackLayout Spacing="20">
+            <Label Text="User Details" FontSize="30" HorizontalOptions="Center" />
+
+            <ListView x:Name="UserDetailsListView" ItemTapped="OnItemTapped">
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <ViewCell>
+                            <StackLayout Orientation="Horizontal" Margin="0,10,0,10" BackgroundColor="#E6E6E6">
+                                <Label Text="{Binding PropertyName}" FontAttributes="Bold" WidthRequest="150" FontSize="18" />
+                                <Label Text="{Binding PropertyValue}" FontSize="18" />
+                            </StackLayout>
+                        </ViewCell>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+
+            <Button Text="Search Restaurants, Dishes, and Ingredients" Clicked="OnSearchButtonClicked" HorizontalOptions="Center" FontSize="20" />
+
+            <Button x:Name="DeleteButton" Text="Delete User" Clicked="OnDeleteButtonClicked" HorizontalOptions="Center" FontSize="20" IsVisible="{Binding IsUser, Mode=OneWay}" />
+            <Button Text="Back" Clicked="OnBackButtonClicked" HorizontalOptions="Center" FontSize="20" />
+        </StackLayout>
+    </ScrollView>
+</ContentPage>

@@ -1,0 +1,12 @@
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="test_maui.NewUserPage">
+
+    <StackLayout Spacing="15" Padding="20">
+        <Entry Placeholder="Username" x:Name="UsernameEntry" />
+        <Entry Placeholder="Password" IsPassword="True" x:Name="PasswordEntry"/>
+        <Entry Placeholder="Type" x:Name="TypeEntry" />
+
+        <Button Text="Create User" Clicked="OnCreateUserClicked" />
+    </StackLayout>
+</ContentPage>

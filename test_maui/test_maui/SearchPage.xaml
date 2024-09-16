@@ -1,0 +1,40 @@
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="test_maui.SearchPage"
+             Title="SearchPage">
+
+    <ListView x:Name="Restaurants" ItemTapped="OnItemTapped" SelectionMode="Single">
+        <ListView.ItemTemplate>
+            <DataTemplate>
+                <ViewCell>
+                    <StackLayout Orientation="Vertical" Margin="0,10,0,10" BackgroundColor="#E6E6E6">
+                        <!-- Первая часть - Фото ресторана и название -->
+                        <StackLayout Orientation="Horizontal">
+                            <Image Source="{Binding ImageContent}" WidthRequest="100" HeightRequest="100" />
+                            <Label Text="{Binding RestaurantName}" FontAttributes="Bold" FontSize="18" VerticalOptions="Center" Margin="10,0,0,0"/>
+                        </StackLayout>
+                        <!-- Вторая часть - Список меню ресторана -->
+                        <ListView ItemsSource="{Binding FoodItems}" SeparatorVisibility="None">
+                            <ListView.ItemTemplate>
+                                <DataTemplate>
+                                    <ViewCell>
+                                        <StackLayout Orientation="Horizontal" Margin="0,5,0,5">
+                                            <Label Text="{Binding ItemName}" />
+                                            <Label Text=" "/>
+                                            <Label Text="{Binding Price}" />
+                                        </StackLayout>
+                                    </ViewCell>
+                                </DataTemplate>
+                            </ListView.ItemTemplate>
+                        </ListView>
+                        <!-- Третья часть - Рейтинг ресторана -->
+                        <StackLayout Orientation="Horizontal" HorizontalOptions="End">
+                            <Label Text="Rating:" VerticalOptions="Center"/>
+                            <Label Text="{Binding Ratings, StringFormat='{0:F2}', TargetNullValue='No data', Converter={StaticResource NaNToNoDataConverter}}" VerticalOptions="Center" Margin="5,0,0,0"/>
+                        </StackLayout>
+                    </StackLayout>
+                </ViewCell>
+            </DataTemplate>
+        </ListView.ItemTemplate>
+    </ListView>
+</ContentPage>

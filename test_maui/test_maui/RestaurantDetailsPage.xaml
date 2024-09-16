@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="test_maui.RestaurantDetailsPage"
+             Title="RestaurantDetailsPage">
+
+    <StackLayout>
+        <!-- Фото ресторана -->
+        <Image Source="{Binding ImageContent}" WidthRequest="300" HeightRequest="200" />
+
+        <!-- Название ресторана -->
+        <Label Text="{Binding RestaurantName}" FontSize="24" HorizontalOptions="Center" />
+
+        <!-- Оценка ресторана (если user не null) -->
+        <StackLayout>
+            <StackLayout.Triggers>
+                <DataTrigger TargetType="StackLayout" Binding="{Binding User}" Value="{x:Null}">
+                    <Setter Property="IsVisible" Value="False" />
+                </DataTrigger>
+            </StackLayout.Triggers>
+
+            <Label Text="Rate this restaurant:" FontSize="20" />
+            <Slider x:Name="ratingSlider" Minimum="0.5" Maximum="5" WidthRequest="300" Value="{Binding Rating}" />
+            <Label Text="{Binding Path=Value, Source={x:Reference ratingSlider}, StringFormat='{0:F1}'}" FontSize="16" HorizontalOptions="Center" />
+            <Button x:Name="rateButton" Text="Rate" Clicked="RateButton_Clicked" HorizontalOptions="Center" />
+        </StackLayout>
+
+        <!-- Список блюд ресторана -->
+        <ListView ItemsSource="{Binding FoodItems}" SeparatorVisibility="None" ItemTapped="OnFoodItemTapped">
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <ViewCell>
+                        <StackLayout>
+                            <!-- Название блюда -->
+                            <Label Text="{Binding ItemName}" FontSize="20" />
+
+                            <!-- Список ингредиентов блюда -->
+                            <ListView ItemsSource="{Binding Ingredients}" SeparatorVisibility="None">
+                                <ListView.ItemTemplate>
+                                    <DataTemplate>
+                                        <ViewCell>
+                                            <!-- Название ингредиента -->
+                                            <Label Text="{Binding}" FontSize="16" />
+                                        </ViewCell>
+                                    </DataTemplate>
+                                </ListView.ItemTemplate>
+                            </ListView>
+                        </StackLayout>
+                    </ViewCell>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+
+        <!-- Комментарии к ресторану -->
+        <ListView x:Name="commentsListView" ItemsSource="{Binding Comments}" SeparatorVisibility="Default">
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <ViewCell>
+                        <StackLayout Padding="10">
+                            <Label Text="{Binding CommentText}" FontSize="16" />
+                            <!-- Добавьте здесь отображение имени пользователя или других дополнительных данных о комментарии -->
+                            <StackLayout Orientation="Horizontal" HorizontalOptions="End">
+                                <Button Text="Edit" Clicked="EditComment_Clicked" />
+                                <Button Text="Delete" Clicked="DeleteComment_Clicked" />
+                            </StackLayout>
+                        </StackLayout>
+                    </ViewCell>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+
+        <!-- Форма добавления комментария (если user не null) -->
+        <StackLayout IsVisible="{Binding User, Converter={StaticResource NullToBooleanConverter}}">
+            <Entry x:Name="commentEntry" Placeholder="Enter your comment" />
+            <Button Text="Add Comment" Clicked="AddComment_Clicked" />
+        </StackLayout>
+    </StackLayout>
+</ContentPage>

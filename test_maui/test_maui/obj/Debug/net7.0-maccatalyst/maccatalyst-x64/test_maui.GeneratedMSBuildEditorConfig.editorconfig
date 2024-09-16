@@ -1,0 +1,89 @@
+is_global = true
+build_property.EnableAotAnalyzer = 
+build_property.EnableSingleFileAnalyzer = 
+build_property.EnableTrimAnalyzer = false
+build_property.IncludeAllContentForSelfExtract = 
+build_property.TargetFramework = net7.0-maccatalyst
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = test_maui
+build_property.ProjectDir = C:\Users\grigo\OneDrive\Рабочий стол\test_maui\test_maui\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+
+[C:/Users/grigo/OneDrive/Рабочий стол/test_maui/test_maui/App.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = test_maui.App.xaml
+build_metadata.AdditionalFiles.TargetPath = App.xaml
+build_metadata.AdditionalFiles.RelativePath = App.xaml
+
+[C:/Users/grigo/OneDrive/Рабочий стол/test_maui/test_maui/AppShell.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = test_maui.AppShell.xaml
+build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
+build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
+
+[C:/Users/grigo/OneDrive/Рабочий стол/test_maui/test_maui/ConfigurationPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = test_maui.ConfigurationPage.xaml
+build_metadata.AdditionalFiles.TargetPath = ConfigurationPage.xaml
+build_metadata.AdditionalFiles.RelativePath = ConfigurationPage.xaml
+
+[C:/Users/grigo/OneDrive/Рабочий стол/test_maui/test_maui/DishDetailsPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = test_maui.DishDetailsPage.xaml
+build_metadata.AdditionalFiles.TargetPath = DishDetailsPage.xaml
+build_metadata.AdditionalFiles.RelativePath = DishDetailsPage.xaml
+
+[C:/Users/grigo/OneDrive/Рабочий стол/test_maui/test_maui/MainPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = test_maui.MainPage.xaml
+build_metadata.AdditionalFiles.TargetPath = MainPage.xaml
+build_metadata.AdditionalFiles.RelativePath = MainPage.xaml
+
+[C:/Users/grigo/OneDrive/Рабочий стол/test_maui/test_maui/NewUserPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = test_maui.NewUserPage.xaml
+build_metadata.AdditionalFiles.TargetPath = NewUserPage.xaml
+build_metadata.AdditionalFiles.RelativePath = NewUserPage.xaml
+
+[C:/Users/grigo/OneDrive/Рабочий стол/test_maui/test_maui/Resources/Styles/Colors.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = test_maui.Resources.Styles.Colors.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colors.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Colors.xaml
+
+[C:/Users/grigo/OneDrive/Рабочий стол/test_maui/test_maui/Resources/Styles/Styles.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = test_maui.Resources.Styles.Styles.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Styles.xaml
+
+[C:/Users/grigo/OneDrive/Рабочий стол/test_maui/test_maui/RestaurantDetailsPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = test_maui.RestaurantDetailsPage.xaml
+build_metadata.AdditionalFiles.TargetPath = RestaurantDetailsPage.xaml
+build_metadata.AdditionalFiles.RelativePath = RestaurantDetailsPage.xaml
+
+[C:/Users/grigo/OneDrive/Рабочий стол/test_maui/test_maui/SearchPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = test_maui.SearchPage.xaml
+build_metadata.AdditionalFiles.TargetPath = SearchPage.xaml
+build_metadata.AdditionalFiles.RelativePath = SearchPage.xaml
+
+[C:/Users/grigo/OneDrive/Рабочий стол/test_maui/test_maui/SelectDislikedIngredientsPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = test_maui.SelectDislikedIngredientsPage.xaml
+build_metadata.AdditionalFiles.TargetPath = SelectDislikedIngredientsPage.xaml
+build_metadata.AdditionalFiles.RelativePath = SelectDislikedIngredientsPage.xaml
+
+[C:/Users/grigo/OneDrive/Рабочий стол/test_maui/test_maui/UserDetailPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = test_maui.UserDetailPage.xaml
+build_metadata.AdditionalFiles.TargetPath = UserDetailPage.xaml
+build_metadata.AdditionalFiles.RelativePath = UserDetailPage.xaml

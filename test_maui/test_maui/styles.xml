@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<resources>
+	<style name="LabelStyle" parent="@android:style/Widget.TextView">
+		<item name="android:textSize">@dimen/labelFontSize</item>
+		<!-- Другие атрибуты стиля для Label -->
+	</style>
+
+	<style name="ListViewStyle" parent="@android:style/Widget.ListView">
+		<!-- Другие атрибуты стиля для ListView -->
+	</style>
+
+	<style name="ButtonStyle" parent="@android:style/Widget.Button">
+		<item name="android:textSize">@dimen/buttonFontSize</item>
+		<!-- Другие атрибуты стиля для Button -->
+	</style>
+</resources>

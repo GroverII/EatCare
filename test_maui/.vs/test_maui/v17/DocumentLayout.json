@@ -1,0 +1,389 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\grigo\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\test_maui\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{58DFA043-6E39-4160-99A7-AD0D5EC06182}|test_maui\\test_maui.csproj|c:\\users\\grigo\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\test_maui\\test_maui\\restaurantdetailspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{58DFA043-6E39-4160-99A7-AD0D5EC06182}|test_maui\\test_maui.csproj|solutionrelative:test_maui\\restaurantdetailspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58DFA043-6E39-4160-99A7-AD0D5EC06182}|test_maui\\test_maui.csproj|c:\\users\\grigo\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\test_maui\\test_maui\\restaurantdetailspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58DFA043-6E39-4160-99A7-AD0D5EC06182}|test_maui\\test_maui.csproj|solutionrelative:test_maui\\restaurantdetailspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58DFA043-6E39-4160-99A7-AD0D5EC06182}|test_maui\\test_maui.csproj|c:\\users\\grigo\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\test_maui\\test_maui\\data\\apiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58DFA043-6E39-4160-99A7-AD0D5EC06182}|test_maui\\test_maui.csproj|solutionrelative:test_maui\\data\\apiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58DFA043-6E39-4160-99A7-AD0D5EC06182}|test_maui\\test_maui.csproj|c:\\users\\grigo\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\test_maui\\test_maui\\dishdetailspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58DFA043-6E39-4160-99A7-AD0D5EC06182}|test_maui\\test_maui.csproj|solutionrelative:test_maui\\dishdetailspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58DFA043-6E39-4160-99A7-AD0D5EC06182}|test_maui\\test_maui.csproj|c:\\users\\grigo\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\test_maui\\test_maui\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58DFA043-6E39-4160-99A7-AD0D5EC06182}|test_maui\\test_maui.csproj|solutionrelative:test_maui\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58DFA043-6E39-4160-99A7-AD0D5EC06182}|test_maui\\test_maui.csproj|c:\\users\\grigo\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\test_maui\\test_maui\\modules\\dishcommentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58DFA043-6E39-4160-99A7-AD0D5EC06182}|test_maui\\test_maui.csproj|solutionrelative:test_maui\\modules\\dishcommentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58DFA043-6E39-4160-99A7-AD0D5EC06182}|test_maui\\test_maui.csproj|c:\\users\\grigo\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\test_maui\\test_maui\\dishdetailspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{58DFA043-6E39-4160-99A7-AD0D5EC06182}|test_maui\\test_maui.csproj|solutionrelative:test_maui\\dishdetailspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58DFA043-6E39-4160-99A7-AD0D5EC06182}|test_maui\\test_maui.csproj|c:\\users\\grigo\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\test_maui\\test_maui\\modules\\commentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58DFA043-6E39-4160-99A7-AD0D5EC06182}|test_maui\\test_maui.csproj|solutionrelative:test_maui\\modules\\commentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\grigo\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\test_maui\\test_maui\\obj\\Debug\\net7.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:test_maui\\obj\\Debug\\net7.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58DFA043-6E39-4160-99A7-AD0D5EC06182}|test_maui\\test_maui.csproj|c:\\users\\grigo\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\test_maui\\test_maui\\modules\\restaurantscomments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58DFA043-6E39-4160-99A7-AD0D5EC06182}|test_maui\\test_maui.csproj|solutionrelative:test_maui\\modules\\restaurantscomments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58DFA043-6E39-4160-99A7-AD0D5EC06182}|test_maui\\test_maui.csproj|c:\\users\\grigo\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\test_maui\\test_maui\\searchpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58DFA043-6E39-4160-99A7-AD0D5EC06182}|test_maui\\test_maui.csproj|solutionrelative:test_maui\\searchpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58DFA043-6E39-4160-99A7-AD0D5EC06182}|test_maui\\test_maui.csproj|c:\\users\\grigo\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\test_maui\\test_maui\\modules\\restaurantdisplaydata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58DFA043-6E39-4160-99A7-AD0D5EC06182}|test_maui\\test_maui.csproj|solutionrelative:test_maui\\modules\\restaurantdisplaydata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58DFA043-6E39-4160-99A7-AD0D5EC06182}|test_maui\\test_maui.csproj|c:\\users\\grigo\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\test_maui\\test_maui\\modules\\restaurant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58DFA043-6E39-4160-99A7-AD0D5EC06182}|test_maui\\test_maui.csproj|solutionrelative:test_maui\\modules\\restaurant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58DFA043-6E39-4160-99A7-AD0D5EC06182}|test_maui\\test_maui.csproj|c:\\users\\grigo\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\test_maui\\test_maui\\userdetailpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58DFA043-6E39-4160-99A7-AD0D5EC06182}|test_maui\\test_maui.csproj|solutionrelative:test_maui\\userdetailpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58DFA043-6E39-4160-99A7-AD0D5EC06182}|test_maui\\test_maui.csproj|c:\\users\\grigo\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\test_maui\\test_maui\\searchpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{58DFA043-6E39-4160-99A7-AD0D5EC06182}|test_maui\\test_maui.csproj|solutionrelative:test_maui\\searchpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58DFA043-6E39-4160-99A7-AD0D5EC06182}|test_maui\\test_maui.csproj|c:\\users\\grigo\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\test_maui\\test_maui\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{58DFA043-6E39-4160-99A7-AD0D5EC06182}|test_maui\\test_maui.csproj|solutionrelative:test_maui\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58DFA043-6E39-4160-99A7-AD0D5EC06182}|test_maui\\test_maui.csproj|c:\\users\\grigo\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\test_maui\\test_maui\\selectdislikedingredientspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58DFA043-6E39-4160-99A7-AD0D5EC06182}|test_maui\\test_maui.csproj|solutionrelative:test_maui\\selectdislikedingredientspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58DFA043-6E39-4160-99A7-AD0D5EC06182}|test_maui\\test_maui.csproj|c:\\users\\grigo\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\test_maui\\test_maui\\userdetailpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{58DFA043-6E39-4160-99A7-AD0D5EC06182}|test_maui\\test_maui.csproj|solutionrelative:test_maui\\userdetailpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58DFA043-6E39-4160-99A7-AD0D5EC06182}|test_maui\\test_maui.csproj|c:\\users\\grigo\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\test_maui\\test_maui\\modules\\foodingredient .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58DFA043-6E39-4160-99A7-AD0D5EC06182}|test_maui\\test_maui.csproj|solutionrelative:test_maui\\modules\\foodingredient .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58DFA043-6E39-4160-99A7-AD0D5EC06182}|test_maui\\test_maui.csproj|c:\\users\\grigo\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\test_maui\\test_maui\\modules\\fooditem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58DFA043-6E39-4160-99A7-AD0D5EC06182}|test_maui\\test_maui.csproj|solutionrelative:test_maui\\modules\\fooditem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58DFA043-6E39-4160-99A7-AD0D5EC06182}|test_maui\\test_maui.csproj|c:\\users\\grigo\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\test_maui\\test_maui\\modules\\fooditemingredient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58DFA043-6E39-4160-99A7-AD0D5EC06182}|test_maui\\test_maui.csproj|solutionrelative:test_maui\\modules\\fooditemingredient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58DFA043-6E39-4160-99A7-AD0D5EC06182}|test_maui\\test_maui.csproj|c:\\users\\grigo\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\test_maui\\test_maui\\selectdislikedingredientspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{58DFA043-6E39-4160-99A7-AD0D5EC06182}|test_maui\\test_maui.csproj|solutionrelative:test_maui\\selectdislikedingredientspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58DFA043-6E39-4160-99A7-AD0D5EC06182}|test_maui\\test_maui.csproj|c:\\users\\grigo\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\test_maui\\test_maui\\modules\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58DFA043-6E39-4160-99A7-AD0D5EC06182}|test_maui\\test_maui.csproj|solutionrelative:test_maui\\modules\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DishCommentDTO.cs",
+              "DocumentMoniker": "C:\\Users\\grigo\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\test_maui\\test_maui\\Modules\\DishCommentDTO.cs",
+              "RelativeDocumentMoniker": "test_maui\\Modules\\DishCommentDTO.cs",
+              "ToolTip": "C:\\Users\\grigo\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\test_maui\\test_maui\\Modules\\DishCommentDTO.cs",
+              "RelativeToolTip": "test_maui\\Modules\\DishCommentDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T08:57:08.98Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RestaurantDetailsPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\grigo\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\test_maui\\test_maui\\RestaurantDetailsPage.xaml.cs",
+              "RelativeDocumentMoniker": "test_maui\\RestaurantDetailsPage.xaml.cs",
+              "ToolTip": "C:\\Users\\grigo\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\test_maui\\test_maui\\RestaurantDetailsPage.xaml.cs",
+              "RelativeToolTip": "test_maui\\RestaurantDetailsPage.xaml.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAAADkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T07:14:46.517Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RestaurantDetailsPage.xaml",
+              "DocumentMoniker": "C:\\Users\\grigo\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\test_maui\\test_maui\\RestaurantDetailsPage.xaml",
+              "RelativeDocumentMoniker": "test_maui\\RestaurantDetailsPage.xaml",
+              "ToolTip": "C:\\Users\\grigo\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\test_maui\\test_maui\\RestaurantDetailsPage.xaml",
+              "RelativeToolTip": "test_maui\\RestaurantDetailsPage.xaml",
+              "ViewState": "AQIAADYAAAAAAAAAAAAAAE4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-12T07:14:47.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\grigo\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\test_maui\\test_maui\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "test_maui\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\grigo\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\test_maui\\test_maui\\MainPage.xaml.cs",
+              "RelativeToolTip": "test_maui\\MainPage.xaml.cs",
+              "ViewState": "AQIAABcBAAAAAAAAAAAAADIBAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T07:14:47.149Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApiService.cs",
+              "DocumentMoniker": "C:\\Users\\grigo\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\test_maui\\test_maui\\Data\\ApiService.cs",
+              "RelativeDocumentMoniker": "test_maui\\Data\\ApiService.cs",
+              "ToolTip": "C:\\Users\\grigo\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\test_maui\\test_maui\\Data\\ApiService.cs",
+              "RelativeToolTip": "test_maui\\Data\\ApiService.cs",
+              "ViewState": "AQIAAGUCAAAAAAAAAAAAAHcCAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T07:14:47.148Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DishDetailsPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\grigo\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\test_maui\\test_maui\\DishDetailsPage.xaml.cs",
+              "RelativeDocumentMoniker": "test_maui\\DishDetailsPage.xaml.cs",
+              "ToolTip": "C:\\Users\\grigo\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\test_maui\\test_maui\\DishDetailsPage.xaml.cs",
+              "RelativeToolTip": "test_maui\\DishDetailsPage.xaml.cs",
+              "ViewState": "AQIAAFkAAAAAAAAAAAAAAH8AAABfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T07:14:46.153Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DishDetailsPage.xaml",
+              "DocumentMoniker": "C:\\Users\\grigo\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\test_maui\\test_maui\\DishDetailsPage.xaml",
+              "RelativeDocumentMoniker": "test_maui\\DishDetailsPage.xaml",
+              "ToolTip": "C:\\Users\\grigo\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\test_maui\\test_maui\\DishDetailsPage.xaml",
+              "RelativeToolTip": "test_maui\\DishDetailsPage.xaml",
+              "ViewState": "AQIAABoAAAAAAAAAAAAgwDMAAABUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-12T07:14:46.203Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CommentDTO.cs",
+              "DocumentMoniker": "C:\\Users\\grigo\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\test_maui\\test_maui\\Modules\\CommentDTO.cs",
+              "RelativeDocumentMoniker": "test_maui\\Modules\\CommentDTO.cs",
+              "ToolTip": "C:\\Users\\grigo\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\test_maui\\test_maui\\Modules\\CommentDTO.cs",
+              "RelativeToolTip": "test_maui\\Modules\\CommentDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T07:53:15.309Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "RestaurantDisplayData.cs",
+              "DocumentMoniker": "C:\\Users\\grigo\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\test_maui\\test_maui\\Modules\\RestaurantDisplayData.cs",
+              "RelativeDocumentMoniker": "test_maui\\Modules\\RestaurantDisplayData.cs",
+              "ToolTip": "C:\\Users\\grigo\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\test_maui\\test_maui\\Modules\\RestaurantDisplayData.cs",
+              "RelativeToolTip": "test_maui\\Modules\\RestaurantDisplayData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwA4AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T07:14:46.204Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "App.g.i.cs",
+              "DocumentMoniker": "C:\\Users\\grigo\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\test_maui\\test_maui\\obj\\Debug\\net7.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs",
+              "RelativeDocumentMoniker": "test_maui\\obj\\Debug\\net7.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs",
+              "ToolTip": "C:\\Users\\grigo\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\test_maui\\test_maui\\obj\\Debug\\net7.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs",
+              "RelativeToolTip": "test_maui\\obj\\Debug\\net7.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAAYwDcAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T08:07:43.832Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RestaurantsComments.cs",
+              "DocumentMoniker": "C:\\Users\\grigo\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\test_maui\\test_maui\\Modules\\RestaurantsComments.cs",
+              "RelativeDocumentMoniker": "test_maui\\Modules\\RestaurantsComments.cs",
+              "ToolTip": "C:\\Users\\grigo\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\test_maui\\test_maui\\Modules\\RestaurantsComments.cs",
+              "RelativeToolTip": "test_maui\\Modules\\RestaurantsComments.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T07:53:43.495Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SearchPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\grigo\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\test_maui\\test_maui\\SearchPage.xaml.cs",
+              "RelativeDocumentMoniker": "test_maui\\SearchPage.xaml.cs",
+              "ToolTip": "C:\\Users\\grigo\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\test_maui\\test_maui\\SearchPage.xaml.cs",
+              "RelativeToolTip": "test_maui\\SearchPage.xaml.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwCkAAAB+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T07:14:47.147Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Restaurant.cs",
+              "DocumentMoniker": "C:\\Users\\grigo\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\test_maui\\test_maui\\Modules\\Restaurant.cs",
+              "RelativeDocumentMoniker": "test_maui\\Modules\\Restaurant.cs",
+              "ToolTip": "C:\\Users\\grigo\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\test_maui\\test_maui\\Modules\\Restaurant.cs",
+              "RelativeToolTip": "test_maui\\Modules\\Restaurant.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T07:14:47.148Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UserDetailPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\grigo\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\test_maui\\test_maui\\UserDetailPage.xaml.cs",
+              "RelativeDocumentMoniker": "test_maui\\UserDetailPage.xaml.cs",
+              "ToolTip": "C:\\Users\\grigo\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\test_maui\\test_maui\\UserDetailPage.xaml.cs",
+              "RelativeToolTip": "test_maui\\UserDetailPage.xaml.cs",
+              "ViewState": "AQIAAMQAAAAAAAAAAAAwwN0AAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T07:14:47.15Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\grigo\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\test_maui\\test_maui\\MainPage.xaml",
+              "RelativeDocumentMoniker": "test_maui\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\grigo\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\test_maui\\test_maui\\MainPage.xaml",
+              "RelativeToolTip": "test_maui\\MainPage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-12T07:14:47.15Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "SearchPage.xaml",
+              "DocumentMoniker": "C:\\Users\\grigo\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\test_maui\\test_maui\\SearchPage.xaml",
+              "RelativeDocumentMoniker": "test_maui\\SearchPage.xaml",
+              "ToolTip": "C:\\Users\\grigo\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\test_maui\\test_maui\\SearchPage.xaml",
+              "RelativeToolTip": "test_maui\\SearchPage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-12T07:14:47.151Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "SelectDislikedIngredientsPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\grigo\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\test_maui\\test_maui\\SelectDislikedIngredientsPage.xaml.cs",
+              "RelativeDocumentMoniker": "test_maui\\SelectDislikedIngredientsPage.xaml.cs",
+              "ToolTip": "C:\\Users\\grigo\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\test_maui\\test_maui\\SelectDislikedIngredientsPage.xaml.cs",
+              "RelativeToolTip": "test_maui\\SelectDislikedIngredientsPage.xaml.cs",
+              "ViewState": "AQIAAFIAAAAAAAAAAAAAAGMAAABwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T07:14:47.151Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "UserDetailPage.xaml",
+              "DocumentMoniker": "C:\\Users\\grigo\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\test_maui\\test_maui\\UserDetailPage.xaml",
+              "RelativeDocumentMoniker": "test_maui\\UserDetailPage.xaml",
+              "ToolTip": "C:\\Users\\grigo\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\test_maui\\test_maui\\UserDetailPage.xaml",
+              "RelativeToolTip": "test_maui\\UserDetailPage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-12T07:14:47.152Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "FoodIngredient .cs",
+              "DocumentMoniker": "C:\\Users\\grigo\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\test_maui\\test_maui\\Modules\\FoodIngredient .cs",
+              "RelativeDocumentMoniker": "test_maui\\Modules\\FoodIngredient .cs",
+              "ToolTip": "C:\\Users\\grigo\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\test_maui\\test_maui\\Modules\\FoodIngredient .cs",
+              "RelativeToolTip": "test_maui\\Modules\\FoodIngredient .cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAwwBMAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T07:14:47.153Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "FoodItemIngredient.cs",
+              "DocumentMoniker": "C:\\Users\\grigo\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\test_maui\\test_maui\\Modules\\FoodItemIngredient.cs",
+              "RelativeDocumentMoniker": "test_maui\\Modules\\FoodItemIngredient.cs",
+              "ToolTip": "C:\\Users\\grigo\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\test_maui\\test_maui\\Modules\\FoodItemIngredient.cs",
+              "RelativeToolTip": "test_maui\\Modules\\FoodItemIngredient.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T07:14:47.154Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "FoodItem.cs",
+              "DocumentMoniker": "C:\\Users\\grigo\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\test_maui\\test_maui\\Modules\\FoodItem.cs",
+              "RelativeDocumentMoniker": "test_maui\\Modules\\FoodItem.cs",
+              "ToolTip": "C:\\Users\\grigo\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\test_maui\\test_maui\\Modules\\FoodItem.cs",
+              "RelativeToolTip": "test_maui\\Modules\\FoodItem.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABgAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T07:14:47.154Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "SelectDislikedIngredientsPage.xaml",
+              "DocumentMoniker": "C:\\Users\\grigo\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\test_maui\\test_maui\\SelectDislikedIngredientsPage.xaml",
+              "RelativeDocumentMoniker": "test_maui\\SelectDislikedIngredientsPage.xaml",
+              "ToolTip": "C:\\Users\\grigo\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\test_maui\\test_maui\\SelectDislikedIngredientsPage.xaml",
+              "RelativeToolTip": "test_maui\\SelectDislikedIngredientsPage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-12T07:14:47.155Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\grigo\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\test_maui\\test_maui\\Modules\\User.cs",
+              "RelativeDocumentMoniker": "test_maui\\Modules\\User.cs",
+              "ToolTip": "C:\\Users\\grigo\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\test_maui\\test_maui\\Modules\\User.cs",
+              "RelativeToolTip": "test_maui\\Modules\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T07:14:47.155Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

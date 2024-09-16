@@ -1,0 +1,168 @@
+D:\servers\EatCareService\EatCareService\bin\Debug\net8.0\appsettings.Development.json
+D:\servers\EatCareService\EatCareService\bin\Debug\net8.0\appsettings.json
+D:\servers\EatCareService\EatCareService\bin\Debug\net8.0\EatCareService.exe
+D:\servers\EatCareService\EatCareService\bin\Debug\net8.0\EatCareService.deps.json
+D:\servers\EatCareService\EatCareService\bin\Debug\net8.0\EatCareService.runtimeconfig.json
+D:\servers\EatCareService\EatCareService\bin\Debug\net8.0\EatCareService.dll
+D:\servers\EatCareService\EatCareService\bin\Debug\net8.0\EatCareService.pdb
+D:\servers\EatCareService\EatCareService\bin\Debug\net8.0\BCrypt.Net.dll
+D:\servers\EatCareService\EatCareService\bin\Debug\net8.0\CloudinaryDotNet.dll
+D:\servers\EatCareService\EatCareService\bin\Debug\net8.0\dotenv.net.dll
+D:\servers\EatCareService\EatCareService\bin\Debug\net8.0\ExifLib.dll
+D:\servers\EatCareService\EatCareService\bin\Debug\net8.0\LoremNET.dll
+D:\servers\EatCareService\EatCareService\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\servers\EatCareService\EatCareService\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\servers\EatCareService\EatCareService\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\servers\EatCareService\EatCareService\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\servers\EatCareService\EatCareService\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\servers\EatCareService\EatCareService\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\servers\EatCareService\EatCareService\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\servers\EatCareService\EatCareService\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\servers\EatCareService\EatCareService\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\servers\EatCareService\EatCareService\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\servers\EatCareService\EatCareService\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\servers\EatCareService\EatCareService\bin\Debug\net8.0\MySqlConnector.dll
+D:\servers\EatCareService\EatCareService\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\servers\EatCareService\EatCareService\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+D:\servers\EatCareService\EatCareService\bin\Debug\net8.0\SkiaSharp.dll
+D:\servers\EatCareService\EatCareService\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\servers\EatCareService\EatCareService\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\servers\EatCareService\EatCareService\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\servers\EatCareService\EatCareService\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\servers\EatCareService\EatCareService\bin\Debug\net8.0\runtimes\osx\native\libSkiaSharp.dylib
+D:\servers\EatCareService\EatCareService\bin\Debug\net8.0\runtimes\win-arm64\native\libSkiaSharp.dll
+D:\servers\EatCareService\EatCareService\bin\Debug\net8.0\runtimes\win-x64\native\libSkiaSharp.dll
+D:\servers\EatCareService\EatCareService\bin\Debug\net8.0\runtimes\win-x86\native\libSkiaSharp.dll
+D:\servers\EatCareService\EatCareService\obj\Debug\net8.0\EatCareService.csproj.AssemblyReference.cache
+D:\servers\EatCareService\EatCareService\obj\Debug\net8.0\EatCareService.GeneratedMSBuildEditorConfig.editorconfig
+D:\servers\EatCareService\EatCareService\obj\Debug\net8.0\EatCareService.AssemblyInfoInputs.cache
+D:\servers\EatCareService\EatCareService\obj\Debug\net8.0\EatCareService.AssemblyInfo.cs
+D:\servers\EatCareService\EatCareService\obj\Debug\net8.0\EatCareService.csproj.CoreCompileInputs.cache
+D:\servers\EatCareService\EatCareService\obj\Debug\net8.0\EatCareService.MvcApplicationPartsAssemblyInfo.cs
+D:\servers\EatCareService\EatCareService\obj\Debug\net8.0\EatCareService.MvcApplicationPartsAssemblyInfo.cache
+D:\servers\EatCareService\EatCareService\obj\Debug\net8.0\staticwebassets.build.json
+D:\servers\EatCareService\EatCareService\obj\Debug\net8.0\staticwebassets.development.json
+D:\servers\EatCareService\EatCareService\obj\Debug\net8.0\staticwebassets\msbuild.EatCareService.Microsoft.AspNetCore.StaticWebAssets.props
+D:\servers\EatCareService\EatCareService\obj\Debug\net8.0\staticwebassets\msbuild.build.EatCareService.props
+D:\servers\EatCareService\EatCareService\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.EatCareService.props
+D:\servers\EatCareService\EatCareService\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.EatCareService.props
+D:\servers\EatCareService\EatCareService\obj\Debug\net8.0\staticwebassets.pack.json
+D:\servers\EatCareService\EatCareService\obj\Debug\net8.0\scopedcss\bundle\EatCareService.styles.css
+D:\servers\EatCareService\EatCareService\obj\Debug\net8.0\EatCareService.csproj.CopyComplete
+D:\servers\EatCareService\EatCareService\obj\Debug\net8.0\EatCareService.dll
+D:\servers\EatCareService\EatCareService\obj\Debug\net8.0\refint\EatCareService.dll
+D:\servers\EatCareService\EatCareService\obj\Debug\net8.0\EatCareService.pdb
+D:\servers\EatCareService\EatCareService\obj\Debug\net8.0\EatCareService.genruntimeconfig.cache
+D:\servers\EatCareService\EatCareService\obj\Debug\net8.0\ref\EatCareService.dll
+C:\Users\grigo\Desktop\EatCareService\EatCareService\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\grigo\Desktop\EatCareService\EatCareService\bin\Debug\net8.0\appsettings.json
+C:\Users\grigo\Desktop\EatCareService\EatCareService\bin\Debug\net8.0\EatCareService.exe
+C:\Users\grigo\Desktop\EatCareService\EatCareService\bin\Debug\net8.0\EatCareService.deps.json
+C:\Users\grigo\Desktop\EatCareService\EatCareService\bin\Debug\net8.0\EatCareService.runtimeconfig.json
+C:\Users\grigo\Desktop\EatCareService\EatCareService\bin\Debug\net8.0\EatCareService.dll
+C:\Users\grigo\Desktop\EatCareService\EatCareService\bin\Debug\net8.0\EatCareService.pdb
+C:\Users\grigo\Desktop\EatCareService\EatCareService\bin\Debug\net8.0\BCrypt.Net.dll
+C:\Users\grigo\Desktop\EatCareService\EatCareService\bin\Debug\net8.0\CloudinaryDotNet.dll
+C:\Users\grigo\Desktop\EatCareService\EatCareService\bin\Debug\net8.0\dotenv.net.dll
+C:\Users\grigo\Desktop\EatCareService\EatCareService\bin\Debug\net8.0\ExifLib.dll
+C:\Users\grigo\Desktop\EatCareService\EatCareService\bin\Debug\net8.0\LoremNET.dll
+C:\Users\grigo\Desktop\EatCareService\EatCareService\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\grigo\Desktop\EatCareService\EatCareService\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\grigo\Desktop\EatCareService\EatCareService\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\grigo\Desktop\EatCareService\EatCareService\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\grigo\Desktop\EatCareService\EatCareService\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\grigo\Desktop\EatCareService\EatCareService\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\grigo\Desktop\EatCareService\EatCareService\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\grigo\Desktop\EatCareService\EatCareService\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\grigo\Desktop\EatCareService\EatCareService\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\grigo\Desktop\EatCareService\EatCareService\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\grigo\Desktop\EatCareService\EatCareService\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\grigo\Desktop\EatCareService\EatCareService\bin\Debug\net8.0\MySqlConnector.dll
+C:\Users\grigo\Desktop\EatCareService\EatCareService\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\grigo\Desktop\EatCareService\EatCareService\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\grigo\Desktop\EatCareService\EatCareService\bin\Debug\net8.0\SkiaSharp.dll
+C:\Users\grigo\Desktop\EatCareService\EatCareService\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\grigo\Desktop\EatCareService\EatCareService\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\grigo\Desktop\EatCareService\EatCareService\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\grigo\Desktop\EatCareService\EatCareService\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\grigo\Desktop\EatCareService\EatCareService\bin\Debug\net8.0\runtimes\osx\native\libSkiaSharp.dylib
+C:\Users\grigo\Desktop\EatCareService\EatCareService\bin\Debug\net8.0\runtimes\win-arm64\native\libSkiaSharp.dll
+C:\Users\grigo\Desktop\EatCareService\EatCareService\bin\Debug\net8.0\runtimes\win-x64\native\libSkiaSharp.dll
+C:\Users\grigo\Desktop\EatCareService\EatCareService\bin\Debug\net8.0\runtimes\win-x86\native\libSkiaSharp.dll
+C:\Users\grigo\Desktop\EatCareService\EatCareService\obj\Debug\net8.0\EatCareService.csproj.AssemblyReference.cache
+C:\Users\grigo\Desktop\EatCareService\EatCareService\obj\Debug\net8.0\EatCareService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\grigo\Desktop\EatCareService\EatCareService\obj\Debug\net8.0\EatCareService.AssemblyInfoInputs.cache
+C:\Users\grigo\Desktop\EatCareService\EatCareService\obj\Debug\net8.0\EatCareService.AssemblyInfo.cs
+C:\Users\grigo\Desktop\EatCareService\EatCareService\obj\Debug\net8.0\EatCareService.csproj.CoreCompileInputs.cache
+C:\Users\grigo\Desktop\EatCareService\EatCareService\obj\Debug\net8.0\EatCareService.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\grigo\Desktop\EatCareService\EatCareService\obj\Debug\net8.0\EatCareService.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\grigo\Desktop\EatCareService\EatCareService\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\grigo\Desktop\EatCareService\EatCareService\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\grigo\Desktop\EatCareService\EatCareService\obj\Debug\net8.0\staticwebassets\msbuild.EatCareService.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\grigo\Desktop\EatCareService\EatCareService\obj\Debug\net8.0\staticwebassets\msbuild.build.EatCareService.props
+C:\Users\grigo\Desktop\EatCareService\EatCareService\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.EatCareService.props
+C:\Users\grigo\Desktop\EatCareService\EatCareService\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.EatCareService.props
+C:\Users\grigo\Desktop\EatCareService\EatCareService\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\grigo\Desktop\EatCareService\EatCareService\obj\Debug\net8.0\scopedcss\bundle\EatCareService.styles.css
+C:\Users\grigo\Desktop\EatCareService\EatCareService\obj\Debug\net8.0\EatCareS.14F364AF.Up2Date
+C:\Users\grigo\Desktop\EatCareService\EatCareService\obj\Debug\net8.0\EatCareService.dll
+C:\Users\grigo\Desktop\EatCareService\EatCareService\obj\Debug\net8.0\refint\EatCareService.dll
+C:\Users\grigo\Desktop\EatCareService\EatCareService\obj\Debug\net8.0\EatCareService.pdb
+C:\Users\grigo\Desktop\EatCareService\EatCareService\obj\Debug\net8.0\EatCareService.genruntimeconfig.cache
+C:\Users\grigo\Desktop\EatCareService\EatCareService\obj\Debug\net8.0\ref\EatCareService.dll
+C:\Users\grigo\OneDrive\Рабочий стол\EatCareService\EatCareService\obj\Debug\net8.0\EatCareService.dll
+C:\Users\grigo\OneDrive\Рабочий стол\EatCareService\EatCareService\obj\Debug\net8.0\refint\EatCareService.dll
+C:\Users\grigo\OneDrive\Рабочий стол\EatCareService\EatCareService\obj\Debug\net8.0\EatCareService.pdb
+C:\Users\grigo\OneDrive\Рабочий стол\EatCareService\EatCareService\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\grigo\OneDrive\Рабочий стол\EatCareService\EatCareService\bin\Debug\net8.0\appsettings.json
+C:\Users\grigo\OneDrive\Рабочий стол\EatCareService\EatCareService\bin\Debug\net8.0\EatCareService.exe
+C:\Users\grigo\OneDrive\Рабочий стол\EatCareService\EatCareService\bin\Debug\net8.0\EatCareService.deps.json
+C:\Users\grigo\OneDrive\Рабочий стол\EatCareService\EatCareService\bin\Debug\net8.0\EatCareService.runtimeconfig.json
+C:\Users\grigo\OneDrive\Рабочий стол\EatCareService\EatCareService\bin\Debug\net8.0\EatCareService.dll
+C:\Users\grigo\OneDrive\Рабочий стол\EatCareService\EatCareService\bin\Debug\net8.0\EatCareService.pdb
+C:\Users\grigo\OneDrive\Рабочий стол\EatCareService\EatCareService\bin\Debug\net8.0\BCrypt.Net.dll
+C:\Users\grigo\OneDrive\Рабочий стол\EatCareService\EatCareService\bin\Debug\net8.0\CloudinaryDotNet.dll
+C:\Users\grigo\OneDrive\Рабочий стол\EatCareService\EatCareService\bin\Debug\net8.0\dotenv.net.dll
+C:\Users\grigo\OneDrive\Рабочий стол\EatCareService\EatCareService\bin\Debug\net8.0\ExifLib.dll
+C:\Users\grigo\OneDrive\Рабочий стол\EatCareService\EatCareService\bin\Debug\net8.0\LoremNET.dll
+C:\Users\grigo\OneDrive\Рабочий стол\EatCareService\EatCareService\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\grigo\OneDrive\Рабочий стол\EatCareService\EatCareService\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\grigo\OneDrive\Рабочий стол\EatCareService\EatCareService\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\grigo\OneDrive\Рабочий стол\EatCareService\EatCareService\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\grigo\OneDrive\Рабочий стол\EatCareService\EatCareService\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\grigo\OneDrive\Рабочий стол\EatCareService\EatCareService\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\grigo\OneDrive\Рабочий стол\EatCareService\EatCareService\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\grigo\OneDrive\Рабочий стол\EatCareService\EatCareService\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\grigo\OneDrive\Рабочий стол\EatCareService\EatCareService\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\grigo\OneDrive\Рабочий стол\EatCareService\EatCareService\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\grigo\OneDrive\Рабочий стол\EatCareService\EatCareService\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\grigo\OneDrive\Рабочий стол\EatCareService\EatCareService\bin\Debug\net8.0\MySqlConnector.dll
+C:\Users\grigo\OneDrive\Рабочий стол\EatCareService\EatCareService\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\grigo\OneDrive\Рабочий стол\EatCareService\EatCareService\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\grigo\OneDrive\Рабочий стол\EatCareService\EatCareService\bin\Debug\net8.0\SkiaSharp.dll
+C:\Users\grigo\OneDrive\Рабочий стол\EatCareService\EatCareService\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\grigo\OneDrive\Рабочий стол\EatCareService\EatCareService\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\grigo\OneDrive\Рабочий стол\EatCareService\EatCareService\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\grigo\OneDrive\Рабочий стол\EatCareService\EatCareService\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\grigo\OneDrive\Рабочий стол\EatCareService\EatCareService\bin\Debug\net8.0\runtimes\osx\native\libSkiaSharp.dylib
+C:\Users\grigo\OneDrive\Рабочий стол\EatCareService\EatCareService\bin\Debug\net8.0\runtimes\win-arm64\native\libSkiaSharp.dll
+C:\Users\grigo\OneDrive\Рабочий стол\EatCareService\EatCareService\bin\Debug\net8.0\runtimes\win-x64\native\libSkiaSharp.dll
+C:\Users\grigo\OneDrive\Рабочий стол\EatCareService\EatCareService\bin\Debug\net8.0\runtimes\win-x86\native\libSkiaSharp.dll
+C:\Users\grigo\OneDrive\Рабочий стол\EatCareService\EatCareService\obj\Debug\net8.0\EatCareService.csproj.AssemblyReference.cache
+C:\Users\grigo\OneDrive\Рабочий стол\EatCareService\EatCareService\obj\Debug\net8.0\EatCareService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\grigo\OneDrive\Рабочий стол\EatCareService\EatCareService\obj\Debug\net8.0\EatCareService.AssemblyInfoInputs.cache
+C:\Users\grigo\OneDrive\Рабочий стол\EatCareService\EatCareService\obj\Debug\net8.0\EatCareService.AssemblyInfo.cs
+C:\Users\grigo\OneDrive\Рабочий стол\EatCareService\EatCareService\obj\Debug\net8.0\EatCareService.csproj.CoreCompileInputs.cache
+C:\Users\grigo\OneDrive\Рабочий стол\EatCareService\EatCareService\obj\Debug\net8.0\EatCareService.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\grigo\OneDrive\Рабочий стол\EatCareService\EatCareService\obj\Debug\net8.0\EatCareService.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\grigo\OneDrive\Рабочий стол\EatCareService\EatCareService\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\grigo\OneDrive\Рабочий стол\EatCareService\EatCareService\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\grigo\OneDrive\Рабочий стол\EatCareService\EatCareService\obj\Debug\net8.0\staticwebassets\msbuild.EatCareService.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\grigo\OneDrive\Рабочий стол\EatCareService\EatCareService\obj\Debug\net8.0\staticwebassets\msbuild.build.EatCareService.props
+C:\Users\grigo\OneDrive\Рабочий стол\EatCareService\EatCareService\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.EatCareService.props
+C:\Users\grigo\OneDrive\Рабочий стол\EatCareService\EatCareService\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.EatCareService.props
+C:\Users\grigo\OneDrive\Рабочий стол\EatCareService\EatCareService\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\grigo\OneDrive\Рабочий стол\EatCareService\EatCareService\obj\Debug\net8.0\scopedcss\bundle\EatCareService.styles.css
+C:\Users\grigo\OneDrive\Рабочий стол\EatCareService\EatCareService\obj\Debug\net8.0\EatCareS.14F364AF.Up2Date
+C:\Users\grigo\OneDrive\Рабочий стол\EatCareService\EatCareService\obj\Debug\net8.0\EatCareService.genruntimeconfig.cache
+C:\Users\grigo\OneDrive\Рабочий стол\EatCareService\EatCareService\obj\Debug\net8.0\ref\EatCareService.dll
