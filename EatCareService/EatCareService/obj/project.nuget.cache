@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "bsI1TVpygdw=",
+  "dgSpecHash": "DVvQM6sCjFs=",
   "success": true,
-  "projectFilePath": "C:\\Users\\grigo\\OneDrive\\Рабочий стол\\EatCareService\\EatCareService\\EatCareService.csproj",
+  "projectFilePath": "C:\\Users\\grigo\\OneDrive\\Рабочий стол\\EatCare\\EatCareService\\EatCareService\\EatCareService.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\grigo\\.nuget\\packages\\bcrypt.net\\0.1.0\\bcrypt.net.0.1.0.nupkg.sha512",
     "C:\\Users\\grigo\\.nuget\\packages\\cloudinarydotnet\\1.26.0\\cloudinarydotnet.1.26.0.nupkg.sha512",

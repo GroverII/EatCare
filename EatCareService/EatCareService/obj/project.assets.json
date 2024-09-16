@@ -4694,11 +4694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\grigo\\OneDrive\\Рабочий стол\\EatCareService\\EatCareService\\EatCareService.csproj",
+      "projectUniqueName": "C:\\Users\\grigo\\OneDrive\\Рабочий стол\\EatCare\\EatCareService\\EatCareService\\EatCareService.csproj",
       "projectName": "EatCareService",
-      "projectPath": "C:\\Users\\grigo\\OneDrive\\Рабочий стол\\EatCareService\\EatCareService\\EatCareService.csproj",
+      "projectPath": "C:\\Users\\grigo\\OneDrive\\Рабочий стол\\EatCare\\EatCareService\\EatCareService\\EatCareService.csproj",
       "packagesPath": "C:\\Users\\grigo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\grigo\\OneDrive\\Рабочий стол\\EatCareService\\EatCareService\\obj\\",
+      "outputPath": "C:\\Users\\grigo\\OneDrive\\Рабочий стол\\EatCare\\EatCareService\\EatCareService\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
